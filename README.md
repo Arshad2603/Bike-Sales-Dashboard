@@ -171,3 +171,13 @@ Bike-Sales-Dashboard/
 │       └── number_of_customers_by_commute_distance.png
 │
 └── README.md
+```
+## Credits
+
+This project was completed as a guided Excel project based on a tutorial by Alex The Analyst.
+
+The original dataset and project framework were provided through the tutorial. I completed the Excel workflow as part of my learning, including data cleaning and standardization, PivotTable analysis, PivotChart creation, interactive dashboard development, and project documentation.
+
+I also refined the presentation of the project by organizing the workbook into raw data, working data, supporting reports, and a final dashboard, and documented the analysis and observations in this repository.
+
+Credit to Alex The Analyst for the original tutorial and project guidance.
