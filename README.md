@@ -10,7 +10,7 @@ The final dashboard allows users to compare bike purchasers and non-purchasers a
 
 ## Dashboard
 
-![Bike Sales Dashboard](Screenshots/Dashboard/bike_sales_dashboard.png)
+![Bike Sales Dashboard](Reports_and_Dashboards/Dashboard/bike_sales_dashboard.png)
 
 The dashboard contains three main analyses:
 
@@ -59,7 +59,7 @@ This approach keeps the original dataset available while providing a cleaned ver
 
 ### Average Income by Gender and Bike Purchase Status
 
-![Average Income Report](Screenshots/Reports/average_income_by_gender_and_bike_purchase_status.png)
+![Average Income Report](Reports_and_Dashboards/Reports/average_income_by_gender_and_bike_purchase_status.png)
 
 This report compares the average income of male and female customers while separating customers according to whether they purchased a bike.
 
@@ -67,7 +67,7 @@ The PivotTable provides the summarized values behind the PivotChart, making it p
 
 ### Number of Customers by Age Bracket and Bike Purchase Status
 
-![Age Bracket Report](Screenshots/Reports/number_of_customers_by_age_bracket.png)
+![Age Bracket Report](Reports_and_Dashboards/Reports/number_of_customers_by_age_bracket.png)
 
 This report compares the number of customers who purchased and did not purchase a bike across different age brackets.
 
@@ -75,7 +75,7 @@ The analysis helps identify differences in bike-purchasing activity among custom
 
 ### Number of Customers by Commute Distance and Bike Purchase Status
 
-![Commute Distance Report](Screenshots/Reports/number_of_customers_by_commute_distance.png)
+![Commute Distance Report](Reports_and_Dashboards/Reports/number_of_customers_by_commute_distance.png)
 
 This report compares the number of customers who purchased and did not purchase a bike across different commute-distance categories.
 
