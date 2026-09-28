@@ -8,7 +8,7 @@ Using Microsoft Excel, I cleaned and prepared approximately 1,000 customer recor
 
 ## Dashboard
 
-![Bike Sales Dashboard](Screenshots/bike_sales_dashboard.png)
+![Bike Sales Dashboard](Screenshots/Dashboard/bike_sales_dashboard.png)
 
 The dashboard can be filtered interactively using:
 
